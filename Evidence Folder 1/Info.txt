@@ -1,0 +1,1 @@
+We have intercepted the files of a nefarious hacker. It seems he used a python program to split his secrets in a round robin fashion. Reverse the program and find his flags. 
